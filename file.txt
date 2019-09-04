@@ -1,0 +1,3 @@
+this is file created with github and will 
+> git pull origin 
+to my computer
